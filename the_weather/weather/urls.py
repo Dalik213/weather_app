@@ -5,3 +5,6 @@ urlpatterns = [
     path('', views.index),
     
 ]
+
+def lol():
+    print("lol")
